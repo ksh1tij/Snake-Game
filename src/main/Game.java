@@ -1,8 +1,6 @@
-package com.mycompany.snakegame;
-
-import static com.mycompany.snakegame.GameStatus.GAME_OVER;
-import static com.mycompany.snakegame.GameStatus.PAUSED;
-import static com.mycompany.snakegame.GameStatus.RUNNING;
+import static src.main.GameStatus.GAME_OVER;
+import static src.main.GameStatus.PAUSED;
+import static src.main.GameStatus.RUNNING;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Font;
