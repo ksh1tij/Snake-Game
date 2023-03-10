@@ -1,5 +1,3 @@
-package com.mycompany.snakegame;
-
 import java.util.*;
 import javax.imageio.ImageIO;
 import java.util.Timer;
