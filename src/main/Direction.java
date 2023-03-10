@@ -1,5 +1,3 @@
-package com.mycompany.snakegame;
-
 // direction of snake
 enum Direction { 
     UP, DOWN, LEFT, RIGHT;
