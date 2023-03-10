@@ -1,9 +1,7 @@
-package com.mycompany.snakegame;
-
-import static com.mycompany.snakegame.Direction.DOWN;
-import static com.mycompany.snakegame.Direction.LEFT;
-import static com.mycompany.snakegame.Direction.RIGHT;
-import static com.mycompany.snakegame.Direction.UP;
+import static src.main.Direction.DOWN;
+import static src.main.Direction.LEFT;
+import static src.main.Direction.RIGHT;
+import static src.main.Direction.UP;
 
 class Point {
     private int x;
