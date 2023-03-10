@@ -1,5 +1,3 @@
-package com.mycompany.snakegame;
-
 import java.util.ArrayList;
 
 class Snake {
